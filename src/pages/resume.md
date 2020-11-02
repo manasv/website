@@ -14,9 +14,9 @@ tags: ["resume"]
 * **Languages:** Spanish (Native) / English (Intermediate)
 
 * **Experience:**
-    * **iOS Developer (June 2019 - Present)** 
+    * **iOS Developer @ Applaudo Studios** (June 2019 - Present)
 
-    * **Web Developer @ The Lab Studio (April 2016 - June 2019)**
+    * **Web Developer @ The Lab Studio** (April 2016 - June 2019)
 
 * **Projects:**
 
