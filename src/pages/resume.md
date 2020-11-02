@@ -1,20 +1,20 @@
 ---
 title: "Resume"
 path: "/resume"
-date: "2019-05-15"
-author: "Manuel"
-excerpt: '"Hello, Gastby?" after years without a clue, finally started...'
+excerpt: '"Manuel Sánchez resume'
 tags: ["resume"]
 ---
 
 * **Name:** Manuel Alejandro Sánchez Sánchez
 * **Country:** El Salvador
-* **Email:** hello@manuelsanchez.me
+* **Email:** hello@manuelsanchez.dev
 * **GitHub:** @manasv
 * **Languages:** Spanish (Native) / English (Intermediate)
 
 * **Experience:**
-    * **Jr Web Developer @ The Lab Studio (Abril 2016 - Present):** Mainly Wordpress / Laravel, but also do some Node / Express, and React / VueJS
+    * **iOS Developer (June 2019 - Present)** 
+
+    * **Web Developer @ The Lab Studio (April 2016 - June 2019)**
 
 * **Projects:**
 
@@ -27,6 +27,6 @@ tags: ["resume"]
     * **ACM-ICPC 2017 - 2018 Qualifiers:** Participated in the qualifiers of ACM International Collegiate Programming Contest, at country level, in the years 2017 & 2018.
 
 * **Languages & Technologies:**
-    * C, Java, PHP, Javascript, Python, PHP, Swift. 
+    * C, PHP, Javascript, Python, Swift. 
     * Visual Studio Code, Vim, Git
 
