@@ -19,6 +19,7 @@ tags: ["resume"]
     * **Web Developer @ The Lab Studio** (April 2016 - June 2019)
 
 * **Projects:**
+    * **Evangelium API - 2019 - Static API (Read Only):** API that delivers the daily gospel (and readings) in 7 different languages, mainly fetching from a source and making json files to be served statically in the structure to be consumed by Evangelium App, the fetcher is entirely written in Swift.
 
     * **Evangelium - 2013 - Android App:** Application that parsed the html from a webpage, picked the elements needed by css selector and displayed in the app, with the ability
     to display the Daily Gospel in five different languages (provided by the website).
