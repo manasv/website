@@ -18,8 +18,10 @@ tags: ["resume"]
 
     * **Web Developer @ The Lab Studio** (April 2016 - June 2019): Mostly web based projects written in PHP frameworks like Laravel / Symfony, and Wordpress websites, experimented with JAMSTACK websites, also had the oportunity to grow in more areas than only development, as the team was composed by talented creative minds that taugh me about graphic design, design thinking, project management.
 
+    * **Learning Cool Stuuf** (From the beginning - Present): I do like to learn new things, from development, design, and any techologies that do improve my workflow, lifestyle, anything that makes life simple, work better.
+
 * **Personal Projects:**
-    * **MaGus: iOS Project generation tool:** CLI Tool that generates iOS project structure based on the information given from the user, giving a blank canvas to start working on a project with configuration files from common tools used in development and skyrocket the project setup phase and going straight to code, also has a robust API to be able to customize the project creation by anyone using the tool.
+    * **MaGus - iOS Project generation tool:** CLI Tool that generates iOS project structure based on the information given from the user, giving a blank canvas to start working on a project with configuration files from common tools used in development and skyrocket the project setup phase and going straight to code, also has a robust API to be able to customize the project creation by anyone using the tool.
 
     * **Evangelium API - 2019 - Static API (Read Only):** API that delivers the daily gospel (and readings) in 7 different languages, mainly fetching from a source and making json files to be served statically in the structure to be consumed by Evangelium App, the fetcher is entirely written in Swift.
 
@@ -38,4 +40,5 @@ tags: ["resume"]
 
 * **Nerd Facts:**
     * Currently using Spotify from terminal 😎
-    * I don't use Google tech
+    * I don't use Google tech 🕵️
+    * Not nerd fact but I like table tennis 🏓
