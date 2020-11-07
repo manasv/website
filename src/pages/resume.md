@@ -9,7 +9,7 @@ tags: ["resume"]
 
 * **Name:** Manuel Alejandro Sánchez Sánchez
 * **Country:** El Salvador
-* **Email:** hello@manuelsanchez.dev
+* **Email:** hey@manuelsanchez.dev
 * **GitHub:** @manasv
 * **Languages:** Spanish (Native) / English (Intermediate)
 
