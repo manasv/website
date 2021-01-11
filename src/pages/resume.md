@@ -7,7 +7,7 @@ excerpt: '"Manuel Sánchez resume'
 tags: ["resume"]
 ---
 
-* **Name:** Manuel Alejandro Sánchez Sánchez
+* **Name:** Manuel Alejandro Sánchez Chávez
 * **Country:** El Salvador
 * **Email:** hey@manuelsanchez.dev
 * **GitHub:** @manasv
