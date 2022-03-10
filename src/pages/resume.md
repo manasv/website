@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 path: "/resume"
-date: "2020-11-02"
+date: "2022-09-03"
 author: "Manuel"
 excerpt: '"Manuel Sánchez resume'
 tags: ["resume"]
@@ -14,7 +14,9 @@ tags: ["resume"]
 * **Languages:** Spanish (Native) / English (Intermediate)
 
 * **Experience:**
-    * **iOS Developer @ Applaudo Studios** (June 2019 - Present): Worked on a variety of Native iOS projects, from personal finance, delivery, and device management apps, leading teams in the development flow, and implementing the latest technologies available for the Apple ecosystem, being able to experiment in new stuff like Combine, SwiftUI and being able to evolve as the swift language does, writting internal tools entirely in Swift.
+    * **iOS Developer @ Ravn** (December 2020 - Present): Working on a bunch of cool projects, from Home Automation to VOIP Apps, from using the latest of SwiftUI, Combine, Swift Concurrency to also making and contributing with Native Modules for React Native.
+    
+    * **iOS Developer @ Applaudo Studios** (June 2019 - December 2020): Worked on a variety of Native iOS projects, from personal finance, delivery, and device management apps, leading teams in the development flow, and implementing the latest technologies available for the Apple ecosystem, being able to experiment in new stuff like Combine, SwiftUI and being able to evolve as the swift language does, writting internal tools entirely in Swift.
 
     * **Web Developer @ The Lab Studio** (April 2016 - June 2019): Mostly web based projects written in PHP frameworks like Laravel / Symfony, and Wordpress websites, experimented with JAMSTACK websites, also had the oportunity to grow in more areas than only development, as the team was composed by talented creative minds that taugh me about graphic design, design thinking, project management.
 
