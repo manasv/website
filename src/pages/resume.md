@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 path: "/resume"
-date: "2022-09-03"
+date: "2022-03-09"
 author: "Manuel"
 excerpt: '"Manuel Sánchez resume'
 tags: ["resume"]
